@@ -1,0 +1,19 @@
+{
+  "name": "幼小衔接学习大冒险",
+  "short_name": "学习大冒险",
+  "description": "适合幼儿园升一年级孩子使用的学习闯关网页应用",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ed",
+  "theme_color": "#fb7185",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
